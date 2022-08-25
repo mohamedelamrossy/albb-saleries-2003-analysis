@@ -1,0 +1,382 @@
+Team,player name,first name,second name,Salary,Position
+New York Yankees, Juan Acevedo, Juan,Acevedo,900000.00,Pitcher
+New York Yankees, Jason Anderson, Jason,Anderson,300000.00,Pitcher
+New York Yankees, Roger Clemens, Roger,Clemens,10100000.00,Pitcher
+New York Yankees, Jose Contreras, Jose,Contreras,5500000.00,Pitcher
+New York Yankees, John Flaherty, John,Flaherty,750000.00,Catcher
+New York Yankees, Jason Giambi, Jason,Giambi,11428571.00,First Baseman
+New York Yankees, Chris Hammond, Chris,Hammond,2200000.00,Pitcher
+New York Yankees, Sterling Hitchcock, Sterling,Hitchcock,6000000.00,Pitcher
+New York Yankees, Derek Jeter, Derek,Jeter,15600000.00,Shortstop
+New York Yankees, Nick Johnson, Nick,Johnson,364100.00,First Baseman
+New York Yankees, Steve Karsay, Steve,Karsay,5000000.00,Pitcher
+New York Yankees, Chris Latham, Chris,Latham,400000.00,Outfielder
+New York Yankees, Jon Liever, Jon,Liever,550000.00,Pitcher
+New York Yankees, Hideki Matsui, Hideki,Matsui,6000000.00,Outfielder
+New York Yankees, Raul Mondesi, Raul,Mondesi,13000000.00,Outfielder
+New York Yankees, Mike Mussina, Mike,Mussina,12000000.00,Pitcher
+New York Yankees, Antonio Osuna, Antonio,Osuna,2400000.00,Pitcher
+New York Yankees, Andy Pettitte, Andy,Pettitte,11500000.00,Pitcher
+New York Yankees, Jorge Posada, Jorge,Posada,8000000.00,Catcher
+New York Yankees, Mariano Rivera, Mariano,Rivera,10500000.00,Pitcher
+New York Yankees, Alfonso Soriano, Alfonso,Soriano,800000.00,Second Baseman
+New York Yankees, Bubba Trammell, Bubba,Trammell,2500000.00,Outfielder
+New York Yankees, Robin Ventura, Robin,Ventura,5000000.00,Third Baseman
+New York Yankees, Jeff Weaver, Jeff,Weaver,4150000.00,Pitcher
+New York Yankees, David Wells, David,Wells,3250000.00,Pitcher
+New York Yankees, Bernie Williams, Bernie,Williams,12357143.00,Outfielder
+New York Yankees, Enrique Wilson, Enrique,Wilson,700000.00,Shortstop
+New York Yankees, Todd Zeile, Todd,Zeile,1500000.00,Third Baseman
+Anaheim Angels, Garret Anderson, Garret,Anderson,5350000.00,Outfielder
+Anaheim Angels, Kevin Appier, Kevin,Appier,11500000.00,Pitcher
+Anaheim Angels, Mickey Callaway, Mickey,Callaway,302500.00,Pitcher
+Anaheim Angels, Brendan Donnelly, Brendan,Donnelly,325000.00,Pitcher
+Anaheim Angels, David Eckstein, David,Eckstein,425000.00,Shortstop
+Anaheim Angels, Darin Erstad, Darin,Erstad,7250000.00,Outfielder
+Anaheim Angels, Brad Fullmer, Brad,Fullmer,1000000.00,First Baseman
+Anaheim Angels, Benji Gil, Benji,Gil,725000.00,Shortstop
+Anaheim Angels, Troy Glaus, Troy,Glaus,7250000.00,Third Baseman
+Anaheim Angels, Adam Kennedy, Adam,Kennedy,2270000.00,Second Baseman
+Anaheim Angels, John Lackey, John,Lackey,315000.00,Pitcher
+Anaheim Angels, Benjie Molina, Benjie,Molina,1425000.00,Catcher
+Anaheim Angels, Jose Molina, Jose,Molina,320000.00,Catcher
+Anaheim Angels, Ramon Ortiz, Ramon,Ortiz,2266667.00,Pitcher
+Anaheim Angels, Eric Owens, Eric,Owens,925000.00,Outfielder
+Anaheim Angels, Troy Percival, Troy,Percival,7833333.00,Pitcher
+Anaheim Angels, Julio Ramirez, Julio,Ramirez,300000.00,Outfielder
+Anaheim Angels, Francisco Rodriquez, Francisco,Rodriquez,312500.00,Pitcher
+Anaheim Angels, Tim Salmon, Tim,Salmon,9900000.00,Outfielder
+Anaheim Angels, Scott Schoeneweis, Scott,Schoeneweis,1425000.00,Pitcher
+Anaheim Angels, Aaron Sele, Aaron,Sele,8166667.00,Pitcher
+Anaheim Angels, Scot Shields, Scot,Shields,305000.00,Pitcher
+Anaheim Angels, Scott Spiezio, Scott,Spiezio,4250000.00,First Baseman
+Anaheim Angels, Jarrod Washburn, Jarrod,Washburn,3875000.00,Pitcher
+Anaheim Angels, Ben Weber, Ben,Weber,375000.00,Pitcher
+Anaheim Angels, Matt Wise, Matt,Wise,302500.00,Pitcher
+Anaheim Angels, Shawn Wooten, Shawn,Wooten,337500.00,Catcher
+Boston Red Sox, John Burkett, John,Burkett,5500000.00,Pitcher
+Boston Red Sox, Johnny Damon, Johnny,Damon,7500000.00,Outfielder
+Boston Red Sox, Alan Embree, Alan,Embree,3000000.00,Pitcher
+Boston Red Sox, Casey Fossum, Casey,Fossum,324500.00,Pitcher
+Boston Red Sox, Chad Fox, Chad,Fox,500000.00,Pitcher
+Boston Red Sox, Nomar Garciaparra, Nomar,Garciaparra,11000000.00,Shortstop
+Boston Red Sox, Jeremy Giambi, Jeremy,Giambi,2000000.00,Outfielder
+Boston Red Sox, Dicky Gonzalez, Dicky,Gonzalez,300000.00,Pitcher
+Boston Red Sox, Shea Hillenbrand, Shea,Hillenbrand,407500.00,Third Baseman
+Boston Red Sox, Bobby Howry, Bobby,Howry,1700000.00,Pitcher
+Boston Red Sox, Damian Jackson, Damian,Jackson,625000.00,Shortstop
+Boston Red Sox, Derek Lowe, Derek,Lowe,3625000.00,Pitcher
+Boston Red Sox, Brandon Lyon, Brandon,Lyon,309500.00,Pitcher
+Boston Red Sox, Pedro Martinez, Pedro,Martinez,15500000.00,Pitcher
+Boston Red Sox, Ramiro Mendoza, Ramiro,Mendoza,2900000.00,Pitcher
+Boston Red Sox, Kevin Millar, Kevin,Millar,2000000.00,First Baseman
+Boston Red Sox, Doug Mirabelli, Doug,Mirabelli,805000.00,Catcher
+Boston Red Sox, Bill Mueller, Bill,Mueller,2100000.00,Third Baseman
+Boston Red Sox, Trot Nixon, Trot,Nixon,4000000.00,Outfielder
+Boston Red Sox, David Ortiz, David,Ortiz,1250000.00,First Baseman
+Boston Red Sox, Robert Person, Robert,Person,300000.00,Pitcher
+Boston Red Sox, Manny Ramirez, Manny,Ramirez,20000000.00,Outfielder
+Boston Red Sox, Mike Timlin, Mike,Timlin,1850000.00,Pitcher
+Boston Red Sox, Jason Varitek, Jason,Varitek,4700000.00,Catcher
+Boston Red Sox, Tim Wakefield, Tim,Wakefield,4000000.00,Pitcher
+Boston Red Sox, Todd Walker, Todd,Walker,3450000.00,Second Baseman
+Boston Red Sox, Matt White, Matt,White,300000.00,Pitcher
+Cleveland Indians, Brian Anderson, Brian,Anderson,1500000.00,Pitcher
+Cleveland Indians, Danys Baez, Danys,Baez,5125000.00,Pitcher
+Cleveland Indians, Josh Bard, Josh,Bard,302100.00,Catcher
+Cleveland Indians, Jason Bere, Jason,Bere,1000000.00,Pitcher
+Cleveland Indians, Casey Blake, Casey,Blake,330000.00,Third Baseman
+Cleveland Indians, Milton Bradley, Milton,Bradley,314300.00,Outfielder
+Cleveland Indians, Benjamin Broussard, Benjamin,Broussard,303000.00,First Baseman
+Cleveland Indians, Ellis Burks, Ellis,Burks,7166667.00,Outfielder
+Cleveland Indians, Jason Davis, Jason,Davis,301100.00,Pitcher
+Cleveland Indians, Karim Garcia, Karim,Garcia,900000.00,Outfielder
+Cleveland Indians, Ricky Gutierrez, Ricky,Gutierrez,3916667.00,Shortstop
+Cleveland Indians, Travis Hafner, Travis,Hafner,302200.00,First Baseman
+Cleveland Indians, Tim Laker, Tim,Laker,400000.00,Catcher
+Cleveland Indians, Matt Lawton, Matt,Lawton,6750000.00,Outfielder
+Cleveland Indians, Cliff Lee, Cliff,Lee,300900.00,Pitcher
+Cleveland Indians, John McDonald, John,McDonald,314400.00,Shortstop
+Cleveland Indians, Terry Mulholland, Terry,Mulholland,500000.00,Pitcher
+Cleveland Indians, Aaron Myette, Aaron,Myette,307500.00,Pitcher
+Cleveland Indians, Brandon Phillips, Brandon,Phillips,300900.00,Shortstop
+Cleveland Indians, David Riske, David,Riske,314000.00,Pitcher
+Cleveland Indians, Ricardo Rodriguez, Ricardo,Rodriguez,302400.00,Pitcher
+Cleveland Indians, CC Sabathia, CC,Sabathia,1100000.00,Pitcher
+Cleveland Indians, Carl Sadler, Carl,Sadler,303200.00,Pitcher
+Cleveland Indians, Jose Santiago, Jose,Santiago,600000.00,Pitcher
+Cleveland Indians, Bill Selby, Bill,Selby,325000.00,Second Baseman
+Cleveland Indians, Shane Spencer, Shane,Spencer,600000.00,Outfielder
+Cleveland Indians, Billy Traber, Billy,Traber,300000.00,Pitcher
+Cleveland Indians, Omar Vizquel, Omar,Vizquel,5500000.00,Shortstop
+Cleveland Indians, Jake Westbrook, Jake,Westbrook,305500.00,Pitcher
+Cleveland Indians, Bob Wickman, Bob,Wickman,6000000.00,Pitcher
+Cleveland Indians, Mark Wohlers, Mark,Wohlers,2600000.00,Pitcher
+Toronto Blue Jays , Dave Berg, Dave,Berg,700000.00,Shortstop
+Toronto Blue Jays , Mike Bordick, Mike,Bordick,1000000.00,Shortstop
+Toronto Blue Jays , Frank Catalanotto, Frank,Catalanotto,2200000.00,Outfielder
+Toronto Blue Jays , Doug Creek, Doug,Creek,700000.00,Pitcher
+Toronto Blue Jays , Carlos Delgado, Carlos,Delgado,18700000.00,First Baseman
+Toronto Blue Jays , Kelvim Escobar, Kelvim,Escobar,3900000.00,Pitcher
+Toronto Blue Jays , Bob File, Bob,File,310000.00,Pitcher
+Toronto Blue Jays , Roy Halladay, Roy,Halladay,3825000.00,Pitcher
+Toronto Blue Jays , Mark Hendrickson, Mark,Hendrickson,302000.00,Pitcher
+Toronto Blue Jays , Eric Hinske, Eric,Hinske,600000.00,Third Baseman
+Toronto Blue Jays , Ken Huckaby, Ken,Huckaby,313000.00,Catcher
+Toronto Blue Jays , Orlando Hudson, Orlando,Hudson,313000.00,Second Baseman
+Toronto Blue Jays , Cory Lidle, Cory,Lidle,5350000.00,Pitcher
+Toronto Blue Jays , Doug Linton, Doug,Linton,350000.00,Pitcher
+Toronto Blue Jays , Aquilino Lopez, Aquilino,Lopez,300000.00,Pitcher
+Toronto Blue Jays , Trever Miller, Trever,Miller,305000.00,Pitcher
+Toronto Blue Jays , Greg Myers, Greg,Myers,800000.00,Catcher
+Toronto Blue Jays , Josh Phelps, Josh,Phelps,320000.00,First Baseman
+Toronto Blue Jays , Cliff Politte, Cliff,Politte,845000.00,Pitcher
+Toronto Blue Jays , Shannon Stewart, Shannon,Stewart,6200000.00,Outfielder
+Toronto Blue Jays , Tanyon Sturtze, Tanyon,Sturtze,1000000.00,Pitcher
+Toronto Blue Jays , Jeff Tam, Jeff,Tam,600000.00,Pitcher
+Toronto Blue Jays , Pete Walker, Pete,Walker,425000.00,Pitcher
+Toronto Blue Jays , Vernon Wells, Vernon,Wells,520000.00,Outfielder
+Toronto Blue Jays , Jayson Werth, Jayson,Werth,300000.00,Catcher
+Toronto Blue Jays , Tom Wilson, Tom,Wilson,316000.00,Catcher
+Toronto Blue Jays , Chris Woodward, Chris,Woodward,775000.00,Shortstop
+Baltimore Orioles, Tony Batista, Tony,Batista,6400000.00,Third Baseman
+Baltimore Orioles, Rick Bauer, Rick,Bauer,325000.00,Pitcher
+Baltimore Orioles, Erik Bedard, Erik,Bedard,300000.00,Pitcher
+Baltimore Orioles, Albert Belle, Albert,Belle,13000000.00,Outfielder
+Baltimore Orioles, Jeff Conine, Jeff,Conine,4250000.00,Outfielder
+Baltimore Orioles, Marty Cordova, Marty,Cordova,3100000.00,Outfielder
+Baltimore Orioles, Deivi Cruz, Deivi,Cruz,1000000.00,Shortstop
+Baltimore Orioles, Omar Daal, Omar,Daal,3000000.00,Pitcher
+Baltimore Orioles, Scott Erickson, Scott,Erickson,7030000.00,Pitcher
+Baltimore Orioles, Brook Fordyce, Brook,Fordyce,3500000.00,Catcher
+Baltimore Orioles, Jay Gibbons, Jay,Gibbons,375000.00,First Baseman
+Baltimore Orioles, Geronimo Gil, Geronimo,Gil,330000.00,Catcher
+Baltimore Orioles, Buddy Groom, Buddy,Groom,3000000.00,Pitcher
+Baltimore Orioles, Jerry Hairston, Jerry,Hairston,1550000.00,Shortstop
+Baltimore Orioles, Rick Helling, Rick,Helling,1000000.00,Pitcher
+Baltimore Orioles, Pat Hentgen, Pat,Hentgen,1200000.00,Pitcher
+Baltimore Orioles, Jason Johson, Jason,Johson,2900000.00,Pitcher
+Baltimore Orioles, Jorge Julio, Jorge,Julio,350000.00,Pitcher
+Baltimore Orioles, Jose Leon, Jose,Leon,305000.00,Third Baseman
+Baltimore Orioles, Kerry Ligtenberg, Kerry,Ligtenberg,1200000.00,Pitcher
+Baltimore Orioles, Rodrigo Lopez, Rodrigo,Lopez,325000.00,Pitcher
+Baltimore Orioles, Gary Matthews, Gary,Matthews,900000.00,Outfielder
+Baltimore Orioles, Melvin Mora, Melvin,Mora,1725000.00,Outfielder
+Baltimore Orioles, Jose Morban, Jose,Morban,300000.00,Shortstop
+Baltimore Orioles, Sidney Ponson, Sidney,Ponson,4250000.00,Pitcher
+Baltimore Orioles, Willis Roberts, Willis,Roberts,3500000.00,Pitcher
+Baltimore Orioles, BJ Ryan, BJ,Ryan,762500.00,Pitcher
+Baltimore Orioles, David Segui, David,Segui,7000000.00,First Baseman
+Baltimore Orioles, BJ Surhoff, BJ,Surhoff,1000000.00,First Baseman
+Tampa Bay Devil Rays, Brent Abernathy, Brent,Abernathy,300000.00,Second Baseman
+Tampa Bay Devil Rays, Marlon Anderson, Marlon,Anderson,600000.00,Second Baseman
+Tampa Bay Devil Rays, Rocco Baldelli, Rocco,Baldelli,300000.00,Outfielder
+Tampa Bay Devil Rays, Nick Bierbrodt, Nick,Bierbrodt,300000.00,Pitcher
+Tampa Bay Devil Rays, Lance Carter, Lance,Carter,300000.00,Pitcher
+Tampa Bay Devil Rays, Jesus Colome, Jesus,Colome,300000.00,Pitcher
+Tampa Bay Devil Rays, Carl Crawford, Carl,Crawford,300000.00,Outfielder
+Tampa Bay Devil Rays, Ben Grieve, Ben,Grieve,5500000.00,Outfielder
+Tampa Bay Devil Rays, Toby Hall, Toby,Hall,300000.00,Catcher
+Tampa Bay Devil Rays, Travis Harper, Travis,Harper,325000.00,Pitcher
+Tampa Bay Devil Rays, Aubrey Huff, Aubrey,Huff,325000.00,Third Baseman
+Tampa Bay Devil Rays, Joe Kennedy, Joe,Kennedy,300000.00,Pitcher
+Tampa Bay Devil Rays, Travis Lee, Travis,Lee,500000.00,First Baseman
+Tampa Bay Devil Rays, Al Martin, Al,Martin,300000.00,Outfielder
+Tampa Bay Devil Rays, Seth McClung, Seth,McClung,300000.00,Pitcher
+Tampa Bay Devil Rays, Rey Ordonez, Rey,Ordonez,6500000.00,Shortstop
+Tampa Bay Devil Rays, Jim Parque, Jim,Parque,400000.00,Pitcher
+Tampa Bay Devil Rays, Steve Parris, Steve,Parris,400000.00,Pitcher
+Tampa Bay Devil Rays, Damian Rolls, Damian,Rolls,300000.00,Third Baseman
+Tampa Bay Devil Rays, Bobby Seay, Bobby,Seay,300000.00,Pitcher
+Tampa Bay Devil Rays, Terry Shumpert, Terry,Shumpert,300000.00,Second Baseman
+Tampa Bay Devil Rays, Jorge Sosa, Jorge,Sosa,300000.00,Pitcher
+Tampa Bay Devil Rays, Javier Valentin, Javier,Valentin,300000.00,Catcher
+Tampa Bay Devil Rays, Mike Venafro, Mike,Venafro,300000.00,Pitcher
+Tampa Bay Devil Rays, Victor Zambrano, Victor,Zambrano,300000.00,Pitcher
+Kansas City Royals, Jeremy Affeldt, Jeremy,Affeldt,313000.00,Pitcher
+Kansas City Royals, Miguel Asencio, Miguel,Asencio,314000.00,Pitcher
+Kansas City Royals, Carlos Beltran, Carlos,Beltran,6000000.00,Outfielder
+Kansas City Royals, Grandon Berger, Grandon,Berger,304000.00,Outfielder
+Kansas City Royals, Angel Berroa, Angel,Berroa,302000.00,Shortstop
+Kansas City Royals, Dermal Brown, Dermal,Brown,309500.00,Outfielder
+Kansas City Royals, Ryan Bukvich, Ryan,Bukvich,304500.00,Pitcher
+Kansas City Royals, DJ Carrasco, DJ,Carrasco,300000.00,Pitcher
+Kansas City Royals, Mike Difelice, Mike,Difelice,625000.00,Catcher
+Kansas City Royals, Carlos Febles, Carlos,Febles,775000.00,Second Baseman
+Kansas City Royals, Chris George, Chris,George,303500.00,Pitcher
+Kansas City Royals, Jason Grimsley, Jason,Grimsley,2000000.00,Pitcher
+Kansas City Royals, Ken Harvey, Ken,Harvey,300000.00,First Baseman
+Kansas City Royals, Runelvys Hernandez, Runelvys,Hernandez,305500.00,Pitcher
+Kansas City Royals, Raul Ibanez, Raul,Ibanez,3000000.00,Outfielder
+Kansas City Royals, Rontrez Johnson, Rontrez,Johnson,300000.00,Outfielder
+Kansas City Royals, Albie Lopez, Albie,Lopez,1500000.00,Pitcher
+Kansas City Royals, Mendy Lopez, Mendy,Lopez,300000.00,Shortstop
+Kansas City Royals, Mike MacDougal, Mike,MacDougal,301000.00,Pitcher
+Kansas City Royals, Darrell May, Darrell,May,450000.00,Pitcher
+Kansas City Royals, Brent Mayne, Brent,Mayne,2750000.00,Catcher
+Kansas City Royals, Joe Randa, Joe,Randa,4500000.00,Third Baseman
+Kansas City Royals, Desi Relaford, Desi,Relaford,900000.00,Shortstop
+Kansas City Royals, Mike Sweeney, Mike,Sweeney,11000000.00,First Baseman
+Kansas City Royals, Michael Tucker, Michael,Tucker,2750000.00,Outfielder
+Kansas City Royals, Kris Wilson, Kris,Wilson,311000.00,Pitcher
+Minnesota Twins, Michael Cuddyer, Michael,Cuddyer,302500.00,Outfielder
+Minnesota Twins, Mike Fetters, Mike,Fetters,500000.00,Pitcher
+Minnesota Twins, Tony Fiore, Tony,Fiore,330000.00,Pitcher
+Minnesota Twins, Chris Gomez, Chris,Gomez,500000.00,Shortstop
+Minnesota Twins, Eddie Guardado, Eddie,Guardado,2700000.00,Pitcher
+Minnesota Twins, Cristian Guzman, Cristian,Guzman,2525000.00,Shortstop
+Minnesota Twins, Latroy Hawkins, Latroy,Hawkins,3000000.00,Pitcher
+Minnesota Twins, Denny Hocking, Denny,Hocking,1000000.00,Second Baseman
+Minnesota Twins, Torii Hunter, Torii,Hunter,4750000.00,Outfielder
+Minnesota Twins, Jacque Jones, Jacque,Jones,2750000.00,Outfielder
+Minnesota Twins, Bobby Kielty, Bobby,Kielty,325000.00,Outfielder
+Minnesota Twins, Corey Koskie, Corey,Koskie,3400000.00,Third Baseman
+Minnesota Twins, Matt Lecroy, Matt,Lecroy,312500.00,Catcher
+Minnesota Twins, Kyle Lohse, Kyle,Lohse,330000.00,Pitcher
+Minnesota Twins, Joe Mays, Joe,Mays,4150000.00,Pitcher
+Minnesota Twins, Doug Mientkiewicz, Doug,Mientkiewicz,1750000.00,First Baseman
+Minnesota Twins, Eric Milton, Eric,Milton,6000000.00,Pitcher
+Minnesota Twins, Dustan Mohr, Dustan,Mohr,315000.00,Outfielder
+Minnesota Twins, AJ Pierzynski, AJ,Pierzynski,365000.00,Catcher
+Minnesota Twins, Tom Prince, Tom,Prince,450000.00,Catcher
+Minnesota Twins, Brad Radke, Brad,Radke,8750000.00,Pitcher
+Minnesota Twins, Rick Reed, Rick,Reed,8000000.00,Pitcher
+Minnesota Twins, Luis Rivas, Luis,Rivas,340000.00,Second Baseman
+Minnesota Twins, Kenny Rogers, Kenny,Rogers,2000000.00,Pitcher
+Minnesota Twins, JC Romero, JC,Romero,325000.00,Pitcher
+Minnesota Twins, Johan Santana, Johan,Santana,335000.00,Pitcher
+Chicago White Sox, Sandy Alomar Jr, Sandy,Alomar Jr,700000.00,Catcher
+Chicago White Sox, Mark Buehrle, Mark,Buehrle,445000.00,Pitcher
+Chicago White Sox, Bartolo Colon, Bartolo,Colon,8250000.00,Pitcher
+Chicago White Sox, Joe Crede, Joe,Crede,315000.00,Third Baseman
+Chicago White Sox, Brian Daubach, Brian,Daubach,450000.00,First Baseman
+Chicago White Sox, Jon Garland, Jon,Garland,375000.00,Pitcher
+Chicago White Sox, Gary Glover, Gary,Glover,330000.00,Pitcher
+Chicago White Sox, Tom Gordon, Tom,Gordon,1400000.00,Pitcher
+Chicago White Sox, Tony Graffanino, Tony,Graffanino,675000.00,Second Baseman
+Chicago White Sox, D'angelo Jimenez, D'angelo,Jimenez,345000.00,Shortstop
+Chicago White Sox, Billy Koch, Billy,Koch,4250000.00,Pitcher
+Chicago White Sox, Paul Konerko, Paul,Konerko,6250000.00,First Baseman
+Chicago White Sox, Carlos Lee, Carlos,Lee,4200000.00,Outfielder
+Chicago White Sox, Esteban Loaiza, Esteban,Loaiza,500000.00,Pitcher
+Chicago White Sox, Damaso Marte, Damaso,Marte,330000.00,Pitcher
+Chicago White Sox, Miguel Olivo, Miguel,Olivo,300000.00,Catcher
+Chicago White Sox, Magglio Ordonez, Magglio,Ordonez,9000000.00,Outfielder
+Chicago White Sox, Josh Paul, Josh,Paul,325000.00,Catcher
+Chicago White Sox, Armando Rios, Armando,Rios,450000.00,Outfielder
+Chicago White Sox, Aaron Rowand, Aaron,Rowand,320000.00,Outfielder
+Chicago White Sox, Josh Stewart, Josh,Stewart,300000.00,Pitcher
+Chicago White Sox, Frank Thomas, Frank,Thomas,5000000.00,First Baseman
+Chicago White Sox, Jose Valentin, Jose,Valentin,5000000.00,Outfielder
+Chicago White Sox, Ribk White, Ribk,White,600000.00,Pitcher
+Chicago White Sox, Danny Wright, Danny,Wright,325000.00,Pitcher
+Chicago White Sox, Kelly Wunsch, Kelly,Wunsch,575000.00,Pitcher
+Detroit Tigers, Matt Anderson, Matt,Anderson,3200000.00,Pitcher
+Detroit Tigers, Adam Bernero, Adam,Bernero,314000.00,Pitcher
+Detroit Tigers, Hiram Bocachica, Hiram,Bocachica,325000.00,Outfielder
+Detroit Tigers, Jeremy Bonderman, Jeremy,Bonderman,300000.00,Pitcher
+Detroit Tigers, Nate Cornejo, Nate,Cornejo,303000.00,Pitcher
+Detroit Tigers, Franklyn German, Franklyn,German,300000.00,Pitcher
+Detroit Tigers, Shane Halter, Shane,Halter,2150000.00,Shortstop
+Detroit Tigers, Bobby Higginson, Bobby,Higginson,11850000.00,Outfielder
+Detroit Tigers, Omar Infante, Omar,Infante,300000.00,Shortstop
+Detroit Tigers, Brandon Inge, Brandon,Inge,315000.00,Catcher
+Detroit Tigers, Eugene Kingsale, Eugene,Kingsale,340000.00,Outfielder
+Detroit Tigers, Gary Knotts, Gary,Knotts,305000.00,Pitcher
+Detroit Tigers, Wilfredo Ledezma, Wilfredo,Ledezma,300000.00,Pitcher
+Detroit Tigers, Mike Maroth, Mike,Maroth,309000.00,Pitcher
+Detroit Tigers, Eric Munson, Eric,Munson,1700000.00,Third Baseman
+Detroit Tigers, Dean Palmer, Dean,Palmer,8500000.00,Third Baseman
+Detroit Tigers, Craig Paquette, Craig,Paquette,2625000.00,Third Baseman
+Detroit Tigers, Danny Patterson, Danny,Patterson,2500000.00,Pitcher
+Detroit Tigers, Carlos Pena, Carlos,Pena,310000.00,First Baseman
+Detroit Tigers, Matt Roney, Matt,Roney,300000.00,Pitcher
+Detroit Tigers, Ramon Santiago, Ramon,Santiago,307000.00,Second Baseman
+Detroit Tigers, Steve Sparks, Steve,Sparks,4500000.00,Pitcher
+Detroit Tigers, Chris Spurling, Chris,Spurling,305000.00,Pitcher
+Detroit Tigers, Matt Walbeck, Matt,Walbeck,400000.00,Catcher
+Detroit Tigers, Jamie Walker, Jamie,Walker,360000.00,Pitcher
+Detroit Tigers, Dmitri Young, Dmitri,Young,6750000.00,Outfielder
+Seattle Mariners, Willie Bloomquist, Willie,Bloomquist,300000.00,Second Baseman
+Seattle Mariners, Bret Boone, Bret,Boone,8000000.00,Second Baseman
+Seattle Mariners, Pat Borders, Pat,Borders,500000.00,Catcher
+Seattle Mariners, Mike Cameron, Mike,Cameron,7416667.00,Outfielder
+Seattle Mariners, Giovanni Carrara, Giovanni,Carrara,400000.00,Pitcher
+Seattle Mariners, Jeff Cirillo, Jeff,Cirillo,6725000.00,Third Baseman
+Seattle Mariners, Greg Colbrunn, Greg,Colbrunn,750000.00,First Baseman
+Seattle Mariners, Ben Davis, Ben,Davis,1000000.00,Catcher
+Seattle Mariners, Ryan Franklin, Ryan,Franklin,425000.00,Pitcher
+Seattle Mariners, Freddy Garcia, Freddy,Garcia,6875000.00,Pitcher
+Seattle Mariners, Carlos Guillen, Carlos,Guillen,2500000.00,Shortstop
+Seattle Mariners, Shigetoshi Hasegawa, Shigetoshi,Hasegawa,1800000.00,Pitcher
+Seattle Mariners, John Mabry, John,Mabry,600000.00,First Baseman
+Seattle Mariners, Edgar Martinez, Edgar,Martinez,4000000.00,First Baseman
+Seattle Mariners, Julio Mateo, Julio,Mateo,302500.00,Pitcher
+Seattle Mariners, Mark McLemore, Mark,McLemore,3150000.00,Second Baseman
+Seattle Mariners, Gil Meche, Gil,Meche,325000.00,Pitcher
+Seattle Mariners, Jamie Moyer, Jamie,Moyer,6500000.00,Pitcher
+Seattle Mariners, Jeff Nelson, Jeff,Nelson,3983333.00,Pitcher
+Seattle Mariners, John Olerud, John,Olerud,7700000.00,First Baseman
+Seattle Mariners, Joel Pineiro, Joel,Pineiro,440000.00,Pitcher
+Seattle Mariners, Arthur Rhodes, Arthur,Rhodes,3500000.00,Pitcher
+Seattle Mariners, Kazuhiro Sasaki, Kazuhiro,Sasaki,8000000.00,Pitcher
+Seattle Mariners, Chris Snelling, Chris,Snelling,300000.00,Outfielder
+Seattle Mariners, Ichiro Suzuki, Ichiro,Suzuki,4666667.00,Outfielder
+Seattle Mariners, Dan Wilson, Dan,Wilson,3500000.00,Catcher
+Seattle Mariners, Randy Winn, Randy,Winn,3300000.00,Outfielder
+Oakland Athletics, Micah Bowie, Micah,Bowie,304000.00,Pitcher
+Oakland Athletics, Chad Bradford, Chad,Bradford,331000.00,Pitcher
+Oakland Athletics, Eric Byrnes, Eric,Byrnes,300000.00,Outfielder
+Oakland Athletics, Eric Chavez, Eric,Chavez,3675000.00,Third Baseman
+Oakland Athletics, Erubiel Durazo, Erubiel,Durazo,1065000.00,First Baseman
+Oakland Athletics, Jermaine Dye, Jermaine,Dye,11666667.00,Outfielder
+Oakland Athletics, Mark Ellis, Mark,Ellis,307500.00,Shortstop
+Oakland Athletics, Jeremy Fikac, Jeremy,Fikac,316000.00,Pitcher
+Oakland Athletics, Keith Foulke, Keith,Foulke,6000000.00,Pitcher
+Oakland Athletics, Ron Gant, Ron,Gant,350000.00,Outfielder
+Oakland Athletics, John Halama, John,Halama,750000.00,Pitcher
+Oakland Athletics, Scott Hatteberg, Scott,Hatteberg,1750000.00,Catcher
+Oakland Athletics, Ramon Hernandez, Ramon,Hernandez,1887500.00,Catcher
+Oakland Athletics, Tim Hudson, Tim,Hudson,2700000.00,Pitcher
+Oakland Athletics, Mark L Johnson, Mark L,Johnson,500000.00,Catcher
+Oakland Athletics, Ted Lilly, Ted,Lilly,335000.00,Pitcher
+Oakland Athletics, Terrence Long, Terrence,Long,2175000.00,Outfielder
+Oakland Athletics, Jim Mecir, Jim,Mecir,3216667.00,Pitcher
+Oakland Athletics, Frank Menechino, Frank,Menechino,334500.00,Second Baseman
+Oakland Athletics, Mark Mulder, Mark,Mulder,2650000.00,Pitcher
+Oakland Athletics, Mike Neu, Mike,Neu,300000.00,Pitcher
+Oakland Athletics, Adam Piatt, Adam,Piatt,322000.00,Third Baseman
+Oakland Athletics, Ricardo Rincon, Ricardo,Rincon,1700000.00,Pitcher
+Oakland Athletics, Chris Singleton, Chris,Singleton,1200000.00,Outfielder
+Oakland Athletics, Miguel Tejada, Miguel,Tejada,5125000.00,Shortstop
+Oakland Athletics, Barry Zito, Barry,Zito,1000000.00,Pitcher
+Texas Rangers, Hank Blalock, Hank,Blalock,302500.00,Third Baseman
+Texas Rangers, Jermaine Clark, Jermaine,Clark,300000.00,Second Baseman
+Texas Rangers, Francisco Cordero, Francisco,Cordero,900000.00,Pitcher
+Texas Rangers, Einar Diaz, Einar,Diaz,1837500.00,Catcher
+Texas Rangers, Carl Everett, Carl,Everett,9150000.00,Outfielder
+Texas Rangers, Aaron Fultz, Aaron,Fultz,600000.00,Pitcher
+Texas Rangers, Reynaldo Garcia, Reynaldo,Garcia,300000.00,Pitcher
+Texas Rangers, Doug Glanville, Doug,Glanville,1000000.00,Outfielder
+Texas Rangers, Juan Gonzalez, Juan,Gonzalez,13000000.00,Outfielder
+Texas Rangers, Todd Greene, Todd,Greene,750000.00,Catcher
+Texas Rangers, Rusty Greer, Rusty,Greer,7000000.00,Outfielder
+Texas Rangers, Chad Kreuter, Chad,Kreuter,750000.00,Catcher
+Texas Rangers, Mike Lamb, Mike,Lamb,440000.00,Third Baseman
+Texas Rangers, Colby Lewis, Colby,Lewis,302500.00,Pitcher
+Texas Rangers, Kevin Mench, Kevin,Mench,327500.00,Outfielder
+Texas Rangers, CJ Nitkowski, CJ,Nitkowski,550000.00,Pitcher
+Texas Rangers, Rafael Palmeiro, Rafael,Palmeiro,9000000.00,First Baseman
+Texas Rangers, Chan Ho Park, Chan Ho,Park,13000000.00,Pitcher
+Texas Rangers, Herbert Perry, Herbert,Perry,1300000.00,Third Baseman
+Texas Rangers, Jay Powell, Jay,Powell,3250000.00,Pitcher
+Texas Rangers, Alex Rodriguez, Alex,Rodriguez,22000000.00,Shortstop
+Texas Rangers, Ruben Sierra, Ruben,Sierra,600000.00,Outfielder
+Texas Rangers, Mark Teixeira, Mark,Teixeira,750000.00,Third Baseman
+Texas Rangers, John Thomson, John,Thomson,1300000.00,Pitcher
+Texas Rangers, Ugueth Urbina, Ugueth,Urbina,4500000.00,Pitcher
+Texas Rangers, Ismael Valdes, Ismael,Valdes,2500000.00,Pitcher
+Texas Rangers, Todd Van Poppel, Todd,Van Poppel,2500000.00,Pitcher
+Texas Rangers, Esteban Yan, Esteban,Yan,1500000.00,Pitcher
+Texas Rangers, Mike B Young, Mike B,Young,415000.00,Shortstop
+Texas Rangers, Jeff Zimmerman, Jeff,Zimmerman,3366667.00,Pitcher
